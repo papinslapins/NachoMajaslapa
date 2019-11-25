@@ -1,0 +1,25 @@
+.mainbox{
+    background-color: aquamarine;
+    width: 800px;
+    margin: 0px auto;
+}
+
+.leftside{
+    background-color: gold;
+    width: 800px;
+}
+
+.main{
+    background-color: darkblue;
+    width: 800px;
+}
+
+.rightside{
+    background-color: lime;
+    width: 800px;
+}
+
+.footer{
+    background-color: blueviolet;
+    width: 800px;
+}
